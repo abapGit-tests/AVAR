@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_AVAR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTION>Test</DESCRIPTION>
+   <IDS>
+    <AAB_VAR_OBJ_ACT>
+     <NAME>ZAG_ACID_UNIT_TEST</NAME>
+     <OBJECT>ACID</OBJECT>
+    </AAB_VAR_OBJ_ACT>
+   </IDS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
